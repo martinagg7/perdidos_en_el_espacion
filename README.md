@@ -1,7 +1,7 @@
 # Perdidos_el_espacio
 Nombre usuario:martinagg7
 
-Link repo:
+Link repo:https://github.com/martinagg7/perdidos_espacio.git
 
 
 ## Archivos
