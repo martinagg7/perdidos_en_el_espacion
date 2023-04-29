@@ -1,7 +1,7 @@
 # Perdidos_el_espacio
 Nombre usuario:martinagg7
 
-Link repo:https://github.com/martinagg7/fase1.git
+Link repo:
 
 
 ## Archivos
